@@ -1,0 +1,33 @@
+.body{
+    text-align: center;
+}
+.header {
+    text-align: center;
+}
+.input {
+    text-align: center;
+}
+
+.nut {
+    margin: auto;
+    text-align: center;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.a{
+    text-align: center;
+    margin: auto;
+    padding-left: 30px;
+    width: auto;
+    padding-left: 450px;
+}
+
+table,tr,td,th{
+    text-align: center;
+    border: 1px solid;
+}
+
+table,th{
+    padding: 4px;
+}
